@@ -15,7 +15,7 @@ Pod::Spec.new do |spec|
   spec.license      = { :type => "MIT", :file => "LICENSE" }
   spec.author       = { "ezto" => "support@ezto.io" }
 
-  spec.source        = { :git => 'https://github.com/ezto-io/ezto-verify-ios-sdk.git', :tag => spec.version.to_s }
+  spec.source        = { :git => 'https://github.com/VijayMR-97/ezto-core.git', :tag => spec.version.to_s }
 
   #  When using multiple platforms
   spec.ios.deployment_target = "13.0"
